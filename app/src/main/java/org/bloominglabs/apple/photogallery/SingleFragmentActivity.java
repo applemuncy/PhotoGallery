@@ -1,4 +1,4 @@
-package org.bloominglabs.apple.criminalintent;
+package org.bloominglabs.apple.photogallery;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
@@ -6,6 +6,8 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
+
+import org.bloominglabs.apple.photogallery.R;
 
 /**
  * Created by apple on 11/25/15.
